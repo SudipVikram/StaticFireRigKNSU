@@ -4,13 +4,13 @@ This is an ongoing project under development at the **Society of Amateur Astrono
 
 
 # Concept Map
-![concept map for Static Fire Rig](https://photos.app.goo.gl/NgR197AojKyqJvD8A)
+![concept map of static fire rig](https://drive.google.com/file/d/1vWYvGWsI9xQRr7LGW8YGzOnf_LwrL69g/view?usp=sharing)
 
 # CAD model
 
 The CAD files were created using **FreeCAD  v0.19**
 
-![CAD model of Static Fire Rig](https://photos.app.goo.gl/G8MPg2iT9qUdS7oy7)
+![cad model of static fire rig](https://drive.google.com/file/d/1RB1RwToA2dpVBfwOgDGdfsxbbQJpKkhs/view?usp=sharing)
 
 
 ## GUI software for control
