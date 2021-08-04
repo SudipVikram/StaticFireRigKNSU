@@ -4,13 +4,12 @@ This is an ongoing project under development at the **Society of Amateur Astrono
 
 
 # Concept Map
-<a href="https://drive.google.com/file/d/1vWYvGWsI9xQRr7LGW8YGzOnf_LwrL69g/view?usp=sharing&id=<FILEID>"><img src="https://drive.google.com/file/d/1vWYvGWsI9xQRr7LGW8YGzOnf_LwrL69g/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
+<a href="https://drive.google.com/file/d/1vWYvGWsI9xQRr7LGW8YGzOnf_LwrL69g/view?usp=sharing&id=<FILEID>">Click here to enlarge</a>
 # CAD model
 
 The CAD files were created using **FreeCAD  v0.19**
   
-<a href="https://drive.google.com/file/d/1RB1RwToA2dpVBfwOgDGdfsxbbQJpKkhs/view?usp=sharing&id=<FILEID>"><img src="https://drive.google.com/file/d/1RB1RwToA2dpVBfwOgDGdfsxbbQJpKkhs/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/file/d/1RB1RwToA2dpVBfwOgDGdfsxbbQJpKkhs/view?usp=sharing&id=<FILEID>">Click here to enlarge</a>
 
 
 ## GUI software for control
