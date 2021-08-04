@@ -14,4 +14,4 @@ The CAD files were created using **FreeCAD  v0.19**
 
 ## GUI software for control
 
-The control software is used using **Scilab**.
+The control software is made using **Scilab**.
